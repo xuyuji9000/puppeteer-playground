@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuyuji9000/puppeteer-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuyuji9000/puppeteer-playground/issues"
+  },
+  "homepage": "https://github.com/xuyuji9000/puppeteer-playground#readme",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
